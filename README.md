@@ -1,5 +1,5 @@
 # UPJV-API
-Endpoints de l'API de l'application monUPJV
+Endpoints de l'API de l'application MonUPJV
 
 Base url : https://api.appscho.com/upjv/
 Endpoints:
