@@ -1,2 +1,2 @@
 # UPJV-API
-API de l'application monUPJV
+Endpoints de l'API de l'application monUPJV
