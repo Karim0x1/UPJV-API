@@ -1,7 +1,7 @@
 # UPJV-API
 Endpoints de l'API de l'application MonUPJV
 
-Base url : https://api.appscho.com/upjv/
+Base url : https://api.appscho.com/upjv/<br/>
 Endpoints:
 - login (headers={'X-Appscho-Id':'studentNumber', 'X-Appscho-Token':'password'})
 - webviews/adminfile (headers={'X-Appscho-Id':'studentNumber', 'X-Appscho-Token':'token'})
