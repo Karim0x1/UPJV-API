@@ -1,5 +1,5 @@
 # UPJV-API
-Endpoints de l'API de l'application MonUPJV
+Endpoints de l'API de l'application MonUPJV. Je déconseille d'ailleurs l'application, étant donné qu'elle stocke les identifiants en brut dans un fichier xml...
 
 Base url : https://api.appscho.com/upjv/<br/>
 Endpoints:
